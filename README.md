@@ -44,7 +44,7 @@
 
 ## 🤝 Acknowledgments (Open-Source Credits)
 
-YumaPlayer is built on the shoulders of the open-source community:
+VengeancePlayer is built on the shoulders of the open-source community:
 
 * **[ArchiveTune](https://github.com/rukamori/ArchiveTune)** — for the solid playback foundations, rich settings base, and core architecture.
 * **[Meld](https://github.com/FrancescoGrazioso/Meld)** — for the conceptual breakthrough and implementation of the Spotify hybrid integration.
