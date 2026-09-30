@@ -61,6 +61,8 @@ Vengeancelayer is built on the shoulders of the open-source community:
 
 ---
 
+-Download
+[![Download APK](https://img.shields.io/badge/Download-Latest_APK-blue?style=for-the-badge&logo=android)](https://github.com/UpperEchelon-VengeanceUtilities/VengeancePlayer/releases/latest)
 ## ⚖️ License
 
 Copyright © 2026 **Vengeance Utilities**. All Rights Reserved.  
