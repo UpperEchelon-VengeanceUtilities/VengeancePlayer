@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/UpperEchelon-VengeanceUtilities.png" alt="Vengeance Player Logo" width="120" style="border-radius: 50%;">
 </p>
-# ⚡ Vengeance Player
+⚡ Vengeance Player
 
 **The Ultimate All-in-One Hybrid Music Experience for Android**
 
